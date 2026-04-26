@@ -30,7 +30,7 @@ python main.py
 
 ## Autor
 
-* Tu nombre
+* Amely Saen Ruiz Arias 6A programacion 
 
 ## Licencia
 
